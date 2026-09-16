@@ -9,56 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# 教育经历
+=======
+* **南京大学 新闻与传播硕士（数字营销方向）**｜2026.09 - 2029.06
+* **湘潭大学 广告学本科**｜2021.09 - 2025.06
+  * GPA：3.706/4.0，校级乙等奖学金
+  * 证书：大学英语六级、计算机二级、普通话二甲
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# 实习经历
+=======
+* **电通Dentsu｜前端策略**｜2024.03 - 2024.07
+  * 参与乐事、雀巢品牌策略项目，撰写用户洞察报告、品牌创意方案
+  * 使用Excel完成数据整理与分析，参与项目头脑风暴，打磨品牌传播创意
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **探空认知科学｜文案编辑**｜2024.01 - 2024.03
+  * 从零搭建多平台账号矩阵，撰写软文、官网文案与直播脚本
+  * 账号总曝光量10万+，小红书账号涨粉360+
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# 项目经历
+=======
+* **云南白药养元青×敦煌博物馆联名广告项目｜项目负责人**｜2023
+  * 大广赛全国三等奖
+  * 组织300余份问卷调研、14位消费者深度访谈，完成整合广告创意与短视频制作
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **爱华仕箱包广告《1000个与世界接触的角度》｜二作**｜2023
+  * 大广赛全国三等奖
+  * 负责短视频创意、文案与拍摄，视频曝光6000+
+
+# 校园经历
+=======
+* **校学生新闻通讯社 设计部部长**｜2022 - 2024
+  * 制作海报、横幅物料20余份；运营官Q账号，审核发布推文180+篇
+
+* **《湘潭大学报》副刊编辑**｜2022 - 2024
+  * 负责稿件征集、文字校对与稿件编辑工作
+
+# 获奖情况
+=======
+* 全国大学生广告艺术大赛：国奖三等奖2项、优秀奖1项
+* 学院奖（广告大赛）多项文案类奖项
+* 湖南省公益广告大赛 校一等奖
+* 湖南省消费帮扶大赛 校一等奖
+
+# 专业能力
+=======
+* 研究能力：问卷设计、用户深度访谈、定性与定量研究分析
+* 创意能力：广告文案写作、品牌策略策划、短视频内容策划
+* 工具：Excel、Canva、基础图片处理
+* 语言：英语CET-6，普通话二甲
