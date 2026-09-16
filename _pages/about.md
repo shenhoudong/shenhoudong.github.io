@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: About
+permalink: /
+title: "个人主页"
 author_profile: true
 redirect_from:
   - /about/
