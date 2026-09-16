@@ -23,7 +23,7 @@ repository               : "shenhoudong/shenhoudong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/asserts/img/profile.png"
   name             : "申厚栋"
   pronouns         : # example: "she/her"  
   bio              : "Master student, School of Journalism and Communication, Nanjing University. Research interests: digital marketing"
