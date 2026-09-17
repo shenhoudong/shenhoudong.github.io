@@ -9,46 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<style>
-/* 全局基础：中文字体、行间距 */
-.page__content {
-  font-family: "Microsoft YaHei", system-ui, -apple-system, sans-serif !important;
-  line-height: 1.7 !important;
-}
-
-/* 板块大标题：教育经历 / 实习经历 / 项目经历，带底色块 */
-.page__content h1 {
-  background-color: #f0f5fa !important;
-  padding: 8px 14px !important;
-  border-left: 5px solid #2b6cb0 !important;
-  border-radius: 4px !important;
-  margin-top: 2em !important;
-  margin-bottom: 1em !important;
-  font-size: 1.4em !important;
-}
-
-/* 一级列表（学历、实习大条目）浅灰色背景块 */
-.page__content > ul > li {
-  background-color: #fcfcfc !important;
-  padding: 10px 12px !important;
-  border-radius: 6px !important;
-  margin-bottom: 14px !important;
-  border: 1px solid #eee !important;
-}
-
-/* 二级子列表（GPA、项目小点） */
-.page__content > ul > li > ul > li {
-  margin-bottom: 6px !important;
-  color: #4a4a4a !important;
-}
-
-/* 加粗文字颜色加深 */
-.page__content strong {
-  color: #1a365d !important;
-  font-weight: 600 !important;
-}
-</style>
-
 # 教育经历
 
 * <strong>南京大学 新闻与传播硕士（数字营销方向）</strong>｜2026.09 - 2029.06
