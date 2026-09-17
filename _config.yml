@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "申厚栋 / Academic Homepage"
+title                    : "申厚栋 Shenhoudong"
 title_separator          : "-"
 name                     : &name "申厚栋"
 description              : &description "Personal academic portfolio of Shen Houdong"   # Update this with a general description of your site, this is the default if not overridden by a page
