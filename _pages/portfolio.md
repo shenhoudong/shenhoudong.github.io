@@ -9,6 +9,7 @@ author_profile: true
 
 ## 📄 完整作品集PDF下载
 [点击此处下载完整作品集](/files/portfolio-shenhoudong.pdf)
+推荐使用电脑端“双页模式”观看，效果更佳。
 
 ## 作品概览
 - 全国大学生广告艺术大赛国家级获奖项目
