@@ -10,31 +10,42 @@ redirect_from:
 {% include base_path %}
 
 <style>
-/* 全局中文优化、行距 */
+/* 全局基础：中文字体、行间距 */
 .page__content {
-  font-family: "Microsoft YaHei", system-ui, sans-serif;
-  line-height: 1.65;
+  font-family: "Microsoft YaHei", system-ui, -apple-system, sans-serif !important;
+  line-height: 1.7 !important;
 }
-/* 一级大标题：教育经历 / 实习经历 */
+
+/* 板块大标题：教育经历 / 实习经历 / 项目经历，带底色块 */
 .page__content h1 {
-  border-bottom: 2px solid #337ab7;
-  padding-bottom: 6px;
-  margin-top: 2em;
-  margin-bottom: 1em;
+  background-color: #f0f5fa !important;
+  padding: 8px 14px !important;
+  border-left: 5px solid #2b6cb0 !important;
+  border-radius: 4px !important;
+  margin-top: 2em !important;
+  margin-bottom: 1em !important;
+  font-size: 1.4em !important;
 }
-/* 一级列表（每条学历、实习） */
+
+/* 一级列表（学历、实习大条目）浅灰色背景块 */
 .page__content > ul > li {
-  margin-bottom: 16px;
-  font-size: 1.02em;
+  background-color: #fcfcfc !important;
+  padding: 10px 12px !important;
+  border-radius: 6px !important;
+  margin-bottom: 14px !important;
+  border: 1px solid #eee !important;
 }
-/* 二级子列表（GPA、证书、项目小点） */
+
+/* 二级子列表（GPA、项目小点） */
 .page__content > ul > li > ul > li {
-  margin-bottom: 8px;
-  color: #444;
+  margin-bottom: 6px !important;
+  color: #4a4a4a !important;
 }
-/* 加粗文字优化 */
+
+/* 加粗文字颜色加深 */
 .page__content strong {
-  color: #222;
+  color: #1a365d !important;
+  font-weight: 600 !important;
 }
 </style>
 
