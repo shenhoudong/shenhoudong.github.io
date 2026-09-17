@@ -8,7 +8,7 @@ author_profile: true
 本人作品集包含品牌策划方案、大广赛获奖作品、营销传播案例等。
 
 ## 📄 完整作品集PDF下载
-[点击此处下载完整作品集]({{ site.baseurl }}/files/portfolio-shenhoudong.pdf)
+[点击此处下载完整作品集](/files/portfolio-shenhoudong.pdf)
 
 ## 作品概览
 - 全国大学生广告艺术大赛国家级获奖项目
