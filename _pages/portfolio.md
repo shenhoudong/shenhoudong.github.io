@@ -12,7 +12,7 @@ author_profile: true
 推荐使用电脑端“双页模式”观看，效果更佳。
 
 ## 📱 移动端：H5版作品集二维码
-< img src="/files/qrcode.png" width="300">
+<img src="/files/qrcode.png" width="300">
 <p>扫码打开H5交互式作品集</p >
 
 ## 作品概览
